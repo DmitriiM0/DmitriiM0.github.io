@@ -1,1 +1,1 @@
-# reactInterestCalculator
+# Calculate compound interest
