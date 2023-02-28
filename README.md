@@ -69,3 +69,12 @@ function count() {
 
 console.log(count());
 ```
+## Links
+
+[link_text](http://example.com)
+
+[link_with_title](http://example.com 'Example.com')
+
+## Images
+
+![Minion](https://octodex.github.com/images/minion.png)
